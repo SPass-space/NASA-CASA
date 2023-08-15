@@ -1,0 +1,190 @@
+These are the libraries used for the NCEP_NC_to_tiff_conv.pr script
+
+affine                    2.3.1              pyhd8ed1ab_0    conda-forge
+arcgis                    1.7.0                  py36_863    esri
+arcgispro                 2.5                           0    esri
+asn1crypto                1.4.0                      py_0    anaconda
+atomicwrites              1.3.0                    py36_1
+attrs                     21.4.0             pyhd3eb1b0_0    anaconda
+backcall                  0.2.0              pyhd3eb1b0_0    anaconda
+blas                      1.0                         mkl    anaconda
+bleach                    3.1.0                    py36_0
+boost-cpp                 1.74.0               h54f0996_3    conda-forge
+brotlipy                  0.7.0           py36h68aa20f_1001    conda-forge
+bzip2                     1.0.8                h8ffe710_4    conda-forge
+ca-certificates           2023.01.10           haa95532_0    anaconda
+certifi                   2021.5.30        py36haa95532_0    anaconda
+cffi                      1.14.6           py36h2bbff1b_0    anaconda
+cfitsio                   3.470                h0af3d06_7    conda-forge
+cftime                    1.0.0b1          py36h452e1ab_0
+chardet                   4.0.0           py36haa95532_1003    anaconda
+charset-normalizer        2.1.1              pyhd8ed1ab_0    conda-forge
+click                     7.1.2              pyh9f0ad1d_0    conda-forge
+click-plugins             1.1.1                      py_0    conda-forge
+cligj                     0.7.2              pyhd8ed1ab_1    conda-forge
+colorama                  0.4.4              pyhd3eb1b0_0    anaconda
+cryptography              35.0.0           py36h71e12ea_0    anaconda
+curl                      7.76.1               hf1763fc_1    conda-forge
+cycler                    0.11.0             pyhd3eb1b0_0    anaconda
+decorator                 5.1.1              pyhd3eb1b0_0    anaconda
+defusedxml                0.6.0                      py_0
+despatch                  0.1.0                    pypi_0    pypi
+entrypoints               0.3                      py36_0
+et_xmlfile                1.1.0            py36haa95532_0    anaconda
+expat                     2.5.0                h1537add_0    conda-forge
+fastcache                 1.1.0            py36he774522_0
+freetype                  2.9.1                ha9979f8_1    anaconda
+freexl                    1.0.6                h67ca5e6_1    conda-forge
+future                    0.17.1                   py36_0    esri
+gdal                      2.3.3              arcgispro_11  [arcgispro]  esri
+geos                      3.8.1                he025d50_0    conda-forge
+geotiff                   1.6.0                h8884d1a_3    conda-forge
+gettext                   0.21.1               h5728263_0    conda-forge
+glib                      2.74.1               h12be248_1    conda-forge
+glib-tools                2.74.1               h12be248_1    conda-forge
+h5py                      2.9.0           py36_arcgispro_2  [arcgispro]  esri
+hdf4                      4.2.15               h1b1b6ef_5    conda-forge
+hdf5                      1.10.6          nompi_h5268f04_1114    conda-forge
+html5lib                  1.1                pyhd3eb1b0_0    anaconda
+icc_rt                    2022.1.0             h6049295_2    anaconda
+icu                       67.1                 h33f27b4_0    conda-forge
+idna                      2.10               pyhd3eb1b0_0    anaconda
+importlib-metadata        4.8.1            py36ha15d459_0    conda-forge
+importlib_metadata        4.8.1                hd3eb1b0_0    anaconda
+intel-openmp              2022.1.0          h59b6b97_3788    anaconda
+ipykernel                 5.1.2            py36h39e3cac_0
+ipython                   7.8.0            py36h39e3cac_0
+ipython_genutils          0.2.0              pyhd3eb1b0_1    anaconda
+ipywidgets                7.5.1                      py_0
+jdcal                     1.4.1              pyhd3eb1b0_0    anaconda
+jedi                      0.15.1                   py36_0    esri
+jinja2                    3.0.3              pyhd3eb1b0_0    anaconda
+jpeg                      9e                   hcfcfb64_3    conda-forge
+json5                     0.8.5                    py36_0    esri
+jsonschema                3.0.2                    py36_0
+jupyter_client            5.3.1                    py36_0    esri
+jupyter_console           6.0.0                    py36_0
+jupyter_core              4.5.0                      py_0    anaconda
+jupyterlab                1.1.4                    py36_0    esri
+jupyterlab_server         1.0.6                      py_0
+kealib                    1.4.14               h96bfa42_2    conda-forge
+keyring                   19.0.2                   py36_0    esri
+kiwisolver                1.3.1            py36hd77b12b_0    anaconda
+krb5                      1.17.2               hbae68bd_0    conda-forge
+libblas                   3.8.0                     8_mkl    conda-forge
+libcblas                  3.8.0                     8_mkl    conda-forge
+libcurl                   7.76.1               hf1763fc_1    conda-forge
+libffi                    3.4.2                h8ffe710_5    conda-forge
+libgdal                   3.1.4                h0d43894_0    conda-forge
+libglib                   2.74.1               he8f3873_1    conda-forge
+libiconv                  1.17                 h8ffe710_0    conda-forge
+libkml                    1.3.0             h9859afa_1014    conda-forge
+liblapack                 3.8.0                     8_mkl    conda-forge
+libnetcdf                 4.7.4           nompi_h3a9aa94_107    conda-forge
+libpng                    1.6.37               h2a8f88b_0    anaconda
+libpq                     12.3                 h4f54205_3    conda-forge
+librttopo                 1.1.0                h6a4060e_4    conda-forge
+libsodium                 1.0.18               h62dcd97_0    anaconda
+libspatialite             5.0.1                h37d8b57_0    conda-forge
+libsqlite                 3.40.0               hcfcfb64_0    conda-forge
+libssh2                   1.10.0               h680486a_3    conda-forge
+libtiff                   4.2.0                h763f289_2    conda-forge
+libwebp-base              1.2.4                h8ffe710_0    conda-forge
+libxml2                   2.10.3               hc3477c8_0    conda-forge
+libzlib                   1.2.13               hcfcfb64_4    conda-forge
+lz4-c                     1.9.3                h8ffe710_1    conda-forge
+markupsafe                2.0.1            py36h2bbff1b_0    anaconda
+matplotlib                3.1.1                   py36_0e  [arcgispro]  esri
+mistune                   0.8.4            py36he774522_0
+mkl                       2019.4            arcgispro_245  [arcgispro]  esri
+mkl-service               2.3.0            py36h196d8e1_0    anaconda
+mkl_fft                   1.3.0            py36h46781fe_0    anaconda
+mkl_random                1.1.0            py36h675688f_0    anaconda
+more-itertools            8.12.0             pyhd3eb1b0_0    anaconda
+mpmath                    1.1.0                    py36_0
+nbconvert                 5.5.0                    py36_0    esri
+nbformat                  4.4.0            py36h3a5bc1b_0
+netcdf4                   1.5.1.2         py36_arcgispro_1  [arcgispro]  esri
+nose                      1.3.7                    py36_2
+notebook                  6.0.1                    py36_0
+numexpr                   2.7.0            py36h6288b17_0    anaconda
+numpy                     1.16.6           py36h5510c5b_0    anaconda
+numpy-base                1.16.6           py36hc3f5095_0    anaconda
+openjpeg                  2.3.1                h48faf41_3    conda-forge
+openpyxl                  3.0.9              pyhd3eb1b0_0    anaconda
+openssl                   1.1.1s               h2bbff1b_0    anaconda
+packaging                 21.3               pyhd3eb1b0_0    anaconda
+pandas                    1.1.5            py36hd77b12b_0    anaconda
+pandocfilters             1.4.2                    py36_1
+parso                     0.8.3              pyhd3eb1b0_0    anaconda
+pcre                      8.45                 h0e60522_0    conda-forge
+pcre2                     10.40                h17e33f8_0    conda-forge
+pickleshare               0.7.5           pyhd3eb1b0_1003    anaconda
+pip                       21.2.2           py36haa95532_0    anaconda
+pluggy                    0.12.0                     py_0
+poppler                   0.89.0               h0cd1227_0    conda-forge
+poppler-data              0.4.12               hd8ed1ab_0    conda-forge
+postgresql                12.3                 h0f1a9bc_3    conda-forge
+pro_notebook_integration  2.5                      py36_5    esri
+proj                      7.1.1                h7d85306_3    conda-forge
+prometheus_client         0.7.1                    py36_0    esri
+prompt_toolkit            2.0.9                    py36_0    anaconda
+psutil                    5.6.3            py36he774522_0
+py                        1.8.0                    py36_0
+pybind11                  2.3.0                    py36_0    esri
+pycparser                 2.21               pyhd3eb1b0_0    anaconda
+pygments                  2.11.2             pyhd3eb1b0_0    anaconda
+pyopenssl                 22.0.0             pyhd3eb1b0_0    anaconda
+pyparsing                 3.0.4              pyhd3eb1b0_0    anaconda
+pypdf2                    1.26.0                     py_2    esri
+pyrsistent                0.14.11          py36he774522_0
+pyshp                     1.2.12                   py36_0
+pysocks                   1.7.1            py36haa95532_0    anaconda
+pytest                    4.6.5                    py36_0    esri
+python                    3.6.9                         1    esri
+python-dateutil           2.8.2              pyhd3eb1b0_0    anaconda
+python_abi                3.6                     2_cp36m    conda-forge
+pytz                      2021.3             pyhd3eb1b0_0    anaconda
+pywin32-ctypes            0.2.0                    py36_0    esri
+pywinpty                  0.5                      py36_0    esri
+pyzmq                     18.1.0                   py36_0    esri
+rasterio                  1.1.7            py36hc1acebe_0    conda-forge
+requests                  2.25.1             pyhd3eb1b0_0    anaconda
+scipy                     1.5.2            py36h9439919_0    anaconda
+send2trash                1.5.0                    py36_0
+setuptools                58.0.4           py36haa95532_0    anaconda
+simplegeneric             0.8.1                    py36_2
+six                       1.16.0             pyhd3eb1b0_1    anaconda
+snuggs                    1.4.7                      py_0    conda-forge
+sqlite                    3.40.1               h2bbff1b_0    anaconda
+sympy                     1.4                      py36_0    esri
+terminado                 0.8.2                    py36_0
+testpath                  0.4.2                    py36_0
+tiledb                    2.1.6                hf84e3da_1    conda-forge
+tk                        8.6.12               h8ffe710_0    conda-forge
+tornado                   6.1              py36h2bbff1b_0    anaconda
+traitlets                 4.3.3            py36haa95532_0    anaconda
+typing_extensions         4.1.1              pyha770c72_0    conda-forge
+ucrt                      10.0.22621.0         h57928b3_0    conda-forge
+urllib3                   1.26.8             pyhd3eb1b0_0    anaconda
+vc                        14.2                 h21ff451_1    anaconda
+vs2015_runtime            14.34.31931         h4c5c07a_10    conda-forge
+wcwidth                   0.2.5              pyhd3eb1b0_0    anaconda
+webencodings              0.5.1                    py36_1    anaconda
+wheel                     0.37.1             pyhd3eb1b0_0    anaconda
+widgetsnbextension        3.5.1                    py36_0
+win_inet_pton             1.1.0            py36haa95532_0    anaconda
+wincertstore              0.2              py36h7fe50ca_0    anaconda
+winkerberos               0.7.0                    py36_1
+winpty                    0.4.3                         4
+x86cpu                    0.4                      py36_1    esri
+xarray                    0.15.0                     py_0    anaconda
+xerces-c                  3.2.4                h63175ca_1    conda-forge
+xeus                      0.23.2                        2    esri
+xlrd                      2.0.1              pyhd3eb1b0_0    anaconda
+xlwt                      1.3.0            py36h1a4751e_0    anaconda
+xz                        5.2.6                h8d14728_0    conda-forge
+zeromq                    4.3.2                         0    esri
+zipp                      3.6.0              pyhd3eb1b0_0    anaconda
+zlib                      1.2.13               hcfcfb64_4    conda-forge
+zstd                      1.4.9                h6255e5f_0    conda-forge
