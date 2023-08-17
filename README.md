@@ -1,8 +1,6 @@
 # NASA-CASA
 This repository contains the scripts used to prepare and run CASA (The Carnegie-Ames-Stanford Approach) terrestrial carbon cycle model. 
 
-This repository contains the scripts used to prepare and run CASA (The Carnegie-Ames-Stanford Approach) terrestrial carbon cycle model. 
-
 **Scripts Used**
 
 1.CASAglobal.py
