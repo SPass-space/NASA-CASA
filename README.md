@@ -25,10 +25,15 @@ year and outputs what sub datasets are needed to be processed for that year. The
 are processed with GDAL into tiff files and saved into a staging folder. Then the TIFFS are opened back up for necessary conversions, reprojected into Mollweide, given an ocean mask, given a 20x20 rectangular focal filter, and saved into a new folder. A separate text file is provided in the folder listing the specific libraries that were used to run this script. 
 
 Select these 5 NC files from the NOAA website and run each seperately through the script: 
+
 air.2m.mon.mean.nc
+
 tmax.2m.mon.mean.nc
+
 tmin.2m.mon.mean.nc
+
 dswrf.sfc.mon.mean.nc
+
 prate.sfc.mon.mean.nc
 
 These 5 NC files can be found from a list here: https://downloads.psl.noaa.gov/Datasets/ncep.reanalysis2/Monthlies/gaussian_grid/
